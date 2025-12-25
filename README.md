@@ -31,6 +31,7 @@ dan riset aplikasi.
 - 7.RISK MANAGEMENT
 - 8.PROCUREMENT MANAGEMENT
 - 9.STAKEHOLDER MANAGEMENT
+- 10.HUMAN RESOURCE
 - Tubes Sederhana
 
 **Presentasi**
