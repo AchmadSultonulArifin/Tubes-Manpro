@@ -36,4 +36,7 @@ dan riset aplikasi.
 **Presentasi**
 - Presentasi-SmartLife Planner
 
+**Prototype**
+https://www.figma.com/make/XZ4putIT0cEEAQCxTl4qRc/Mentoring-Application-Mockup?fullscreen=1&t=PX98wpxvrb1fg2K5-1
+
 
